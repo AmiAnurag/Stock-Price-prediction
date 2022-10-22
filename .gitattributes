@@ -1,2 +1,2 @@
-*.ipnyb linguist-vendored
+*.ipynb linguist-vendored
 *.csv linguist-detectable=true
