@@ -1,0 +1,2 @@
+*.ipnyb linguist-vendored
+*.csv linguist-detectable=true
